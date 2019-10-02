@@ -10,14 +10,16 @@ https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosa
 
 ## Getting started
 
-1. open browser with server run
+1. compile
+```
+$ npm install
+$ ./node_modules/.bin/webpack src/application.js --mode=development
+```
+
+2. update compile
 ```
 $ npm run build
-$ npm run server
 ```
 
-2. In browser, check console log
-- ctrl + c
-- 'console' click
-- check 3 lines of message
-
+3. Open your browser and check
+- check 3 lines of message from javascript
