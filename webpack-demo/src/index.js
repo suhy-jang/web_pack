@@ -1,4 +1,4 @@
-import myName from './myName'
+import myName from './myName';
 
 function component() {
   const element = document.createElement('div');
