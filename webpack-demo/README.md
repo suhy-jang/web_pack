@@ -10,7 +10,7 @@ https://webpack.js.org/guides/getting-started/
 
 ## Getting started
 
-1. compile
+1. install
 ```
 $ npm install
 $ ./node_modules/.bin/webpack src/index.js --mode=development
