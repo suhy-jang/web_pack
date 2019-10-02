@@ -1,3 +1,6 @@
 # Mini projects
 
-- old school: run module export / import with webpack
+Follow tutorials to run module export / import with webpack
+
+- old school
+- webpack demo
