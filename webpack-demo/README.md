@@ -10,17 +10,22 @@ https://webpack.js.org/guides/getting-started/
 
 ## Getting started
 
-1. build
+1. install
+```
+$ npm install
+$ ./node_modules/.bin/webpack src/index.js --mode=development
+```
+
+2. update compile
 ```
 $ npm run build
 ```
 
-2. Go to execution directory
+3. Go to execution directory
 ```
 $ cd dist
 ```
 
-3. click 'index.html' to open browser
+4. click 'index.html' to open browser
 
-4. check message 'Hello webpack'
-
+5. check message 'Hello webpack'

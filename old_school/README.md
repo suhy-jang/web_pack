@@ -13,7 +13,7 @@ https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosa
 1. compile
 ```
 $ npm install
-$ ./node_modules/.bin/webpack src/application.js --mode=development
+$ ./node_modules/.bin/webpack src/index.js --mode=development
 ```
 
 2. update compile

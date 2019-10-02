@@ -1,8 +1,8 @@
 {
   "name": "old_school",
   "version": "1.0.0",
-  "description": "This is part of the Javascript Module Project in the Odin Project's Javascript Curriculum. <br /> Find it at [here](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70).",
-  "main": "src/application.js",
+  "description": "",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --progress --mode=development",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shjang7/old_school.git"
+    "url": "git+https://github.com/shjang7/web_pack.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shjang7/old_school/issues"
+    "url": "https://github.com/shjang7/web_pack/issues"
   },
-  "homepage": "https://github.com/shjang7/old_school/index.html",
+  "homepage": "https://github.com/shjang7/web_pack/old_school/index.html",
   "dependencies": {
     "moment": "^2.22.2"
   },

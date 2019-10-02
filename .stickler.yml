@@ -5,3 +5,7 @@ linters:
   csslint:
     ignore: 'order-alphabetical,box-model'
   stylelint:
+files:
+  ignore:
+    - 'old_school/dist/main.js'
+    - 'webpack-demo/dist/main.js'
